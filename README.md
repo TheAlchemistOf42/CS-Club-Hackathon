@@ -30,3 +30,6 @@ Hill Cipher Key = [[15, 25, 16],[14,5,0],[6,0,11]]
 
 # Cipher 4
 Playfair cipher Key = rebel 
+
+# Letter Frequencies
+Taken from http://norvig.com/mayzner.html
